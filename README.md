@@ -8,7 +8,7 @@ No download required.
 Click to open:
 
 - **📘 Internship Calendar 2026**  
-  👉  https://docs.google.com/spreadsheets/d/19veJ9b4Mblj8nIxmckHLXV2PnN9KRf31HBQMN0r4rPE/edit?usp=sharing
+  👉  https://docs.google.com/document/d/14K8Nd-WYlj5a6TuUURDozb89uF21Qj-FtcYbHxxTkYE/edit?usp=sharing
 
 - **📚 Top Companies Interview Resources**  
   👉https://docs.google.com/spreadsheets/d/1tZg4gYNT8DL3TEUw7yMmG0MaGAwMc4xNViqsrjIGBEo/edit?usp=sharing 
