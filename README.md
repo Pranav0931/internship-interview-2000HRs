@@ -1,19 +1,26 @@
-# companywise-hr-contacts
-A curated list of company-wise HR contacts including names, emails, and job titles to simplify job applications, outreach, and networking.
+## 📂 Download All Internship, Interview & HR Files
 
-# Company-Wise HR Contacts
+I have uploaded all important documents in this repository.  
+You can **open any file and click the “Download” button** to save it on your device.
 
-This repository contains a structured list of HR contacts from various companies.  
-Useful for job seekers, outreach, referrals, and networking.
+### 📁 Available Files in This Repo  
+Click below to open & download:
 
-### Contents
-- HR Name
-- Email ID
-- Job Title
-- Company
+- **📘 Internship Calendar 2026**  
+  👉 `internship calander 2026.xlsx`
 
-### Source
-Manually compiled PDF list.  
-Use responsibly — avoid spam.
+- **📚 Top Companies Interview Resources**  
+  👉 `Top companies ke interview resources.xlsx`
 
-📄 Original File: CompanyWise HR contact.pdf
+- **📧 2000+ HR Contact List (PDF)**  
+  👉 `CompanyWise HR contact .pdf`
+
+### 🔽 How to Download  
+1. File naam par click karo  
+2. GitHub file viewer open hoga  
+3. Top-right corner me **“Download raw file”** ka button dikhega  
+4. Click → File download ho jayegi
+
+---
+
+> 💡 Tip: You can also clone the repo to download all files together:
